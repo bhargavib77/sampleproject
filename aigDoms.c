@@ -18,7 +18,7 @@
 
 ***********************************************************************/
 
-#include "aig.h"
+#include "aig.h"test
 #include "aig/saig/saig.h"
 
 ABC_NAMESPACE_IMPL_START
